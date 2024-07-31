@@ -1,0 +1,58 @@
+.content-head{
+    background-color: lightgrey;
+}
+.content-head2{
+    background-color: lightgrey;
+    margin-top: 2%;
+}
+.containers{
+    margin-left: 4%;
+         margin-right: 4%;
+  }
+.form-label{
+    padding-left: 10%;
+    padding-top: 2%;
+}
+.custom-font{
+    font-weight: bold;
+}
+.import-button {
+    margin-right: 1%; // Tạo khoảng cách 4px giữa các nút
+  }
+.col{
+    margin-top: 0.5%;
+}
+
+.content-table{
+    
+       margin-left: 4%;
+       margin-right: 4%;
+      
+      
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0.5rem 0;
+    background-color: lightgrey; 
+}
+
+th, td {
+    border: 1px solid #ddd; 
+    padding: 8px; 
+    text-align: left; 
+}
+
+th {
+    color: black; 
+}
+.content-table {
+    margin: 2% auto; 
+    width: 96%;
+}
+
+.text-muted {
+    color: #6c757d;
+    font-size: 0.9em;
+}
+

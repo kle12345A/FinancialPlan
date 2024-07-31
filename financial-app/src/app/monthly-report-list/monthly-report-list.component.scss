@@ -1,0 +1,139 @@
+.container-full{
+  background-color: lightgrey;
+}
+.btn-secondary {
+  background-color: #6c757d;
+  border-color: #6c757d;
+  color: #fff;
+height: 30px;
+  &:hover {
+    background-color: #5a6268;
+    border-color: #545b62;
+  }
+  padding-top: 0px;
+}
+.containers{
+  margin-left: 4%;
+       margin-right: 4%;
+}
+.import-button {
+  margin-right: 4px; // Tạo khoảng cách 4px giữa các nút
+}
+
+.d-flex {
+  display: flex;
+}
+
+.justify-content-end {
+  justify-content: flex-end;
+}
+.modal-content{
+  background-color: lightyellow;
+}
+.modal-body {
+  font-weight: bold;
+  font-size: large;
+  height: 200px; 
+  margin-top: 10%;
+  margin-left: 4%;
+  margin-right: 4%;
+}
+.custom-button{
+  width: 72.73px;
+  height: 30px;
+}
+.modal-footer{
+  padding-top: 15%;
+}
+.custom-button + .custom-button {
+  margin-left: 100px; 
+}
+
+.dropdown-button {
+  width: 100%;
+  background-color: #fff;
+  border: 1px solid #ced4da;
+}
+
+.dropdown-menu {
+  width: 100%;
+}
+
+.btn-secondary {
+  margin-left: 10px;
+}
+
+.table {
+  margin-top: 20px;
+}
+
+.custom-button {
+  background-color: #6c757d;
+  border: none;
+}
+
+.custom-button:hover {
+  background-color: #5a6268;
+}
+
+.input-group {
+  margin-bottom: 20px;
+}
+.container-full {
+  padding: 20px;
+}
+
+.dropdown-button {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  background-color: #fff;
+  border: 1px solid #ced4da;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #495057;
+  border-radius: 0.25rem;
+}
+
+.dropdown-text {
+  margin-right: auto;
+}
+
+.dropdown-arrow {
+  margin-left: auto;
+  pointer-events: none; /* Để không bị nhấn vào phần mũi tên */
+}
+
+.dropdown-menu {
+  width: 100%;
+}
+
+.btn-secondary {
+  margin-left: 10px;
+}
+
+.custom-button {
+  background-color: #6c757d;
+  border: none;
+}
+
+.custom-button:hover {
+  background-color: #5a6268;
+}
+
+.input-group {
+  margin-bottom: 20px;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+}
+
+.modal-footer .btn {
+  width: 100px;
+}
+.dropdown-toggle::after {
+  display: none;
+}
