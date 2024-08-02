@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\FinancialPlan\FinancialPlan.Service\bin\Debug\net6.0\FinancialPlan.Service.deps.json
+C:\Users\Asus\source\repos\FinancialPlan\FinancialPlan.Service\bin\Debug\net6.0\FinancialPlan.Service.dll
+C:\Users\Asus\source\repos\FinancialPlan\FinancialPlan.Service\bin\Debug\net6.0\FinancialPlan.Service.pdb
+C:\Users\Asus\source\repos\FinancialPlan\FinancialPlan.Service\obj\Debug\net6.0\FinancialPlan.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\FinancialPlan\FinancialPlan.Service\obj\Debug\net6.0\FinancialPlan.Service.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\FinancialPlan\FinancialPlan.Service\obj\Debug\net6.0\FinancialPlan.Service.AssemblyInfo.cs
+C:\Users\Asus\source\repos\FinancialPlan\FinancialPlan.Service\obj\Debug\net6.0\FinancialPlan.Service.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\FinancialPlan\FinancialPlan.Service\obj\Debug\net6.0\FinancialPlan.Service.dll
+C:\Users\Asus\source\repos\FinancialPlan\FinancialPlan.Service\obj\Debug\net6.0\refint\FinancialPlan.Service.dll
+C:\Users\Asus\source\repos\FinancialPlan\FinancialPlan.Service\obj\Debug\net6.0\FinancialPlan.Service.pdb
+C:\Users\Asus\source\repos\FinancialPlan\FinancialPlan.Service\obj\Debug\net6.0\ref\FinancialPlan.Service.dll
